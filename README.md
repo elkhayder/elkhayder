@@ -7,10 +7,10 @@
 <p align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats-ruby-one.vercel.app/api?username=elkhayder&show_icons=true&theme=dracula&count_private=true&hide_rank=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=elkhayder&show_icons=true&theme=dracula&count_private=true&hide_rank=true"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=elkhayder&show_icons=true&count_private=true&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=elkhayder&show_icons=true&count_private=true&hide_rank=true" />
 </picture>
 </p>
 
@@ -18,10 +18,10 @@
 <p align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=elkhayder&langs_count=10&layout=compact&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhayder&langs_count=10&layout=compact&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=elkhayder&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhayder&langs_count=10&layout=compact" />
 </picture>
 </p>
 
